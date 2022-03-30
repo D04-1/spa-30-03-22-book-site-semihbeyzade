@@ -17,4 +17,10 @@
     object-fit: cover;
     border: 0.2rem solid black;
   }
+
+  img{
+    cursor: pointer;
+    width: 250px;
+    height: 250px;
+  }
   
